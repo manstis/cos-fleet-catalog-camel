@@ -33,6 +33,7 @@
         <module>slack</module>
         <module>openapi</module>
         <module>actions</module>
+        <module>telegram</module>
     </modules>
 
     <build>
